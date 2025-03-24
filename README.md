@@ -10,3 +10,5 @@ This log holds the commands and output for each of the major commands and their 
 
 ## Create_figures.R
 This files holds the R code for figure creation
+
+## Abricate files
