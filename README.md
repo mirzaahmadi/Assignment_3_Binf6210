@@ -12,3 +12,4 @@ This log holds the commands and output for each of the major commands and their 
 This files holds the R code for figure creation
 
 ## Abricate files
+The detailed Abricate file outputs from the genome assemblers SPAdes, Flye and Unicycler are stored within the corresponding abricate_output files 
