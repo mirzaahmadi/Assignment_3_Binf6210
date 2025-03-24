@@ -1,6 +1,6 @@
 # Assignment_3_Binf6210
 
-This repository holds the code files for my Genomics assignment 3 project.
+This repository holds code files and directories for my Genomics assignment 3 project.
 
 ## compute_canada_code.sh
 This file holds the detailed bash code for all the commands I executed on the compute canada environment for performing exploratory data analysis, file transfers, and genome assembly comparisons.
