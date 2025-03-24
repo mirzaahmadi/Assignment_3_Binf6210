@@ -1,0 +1,6 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+/home/mirza/scratch/Genomics_Assignment_3/Assignment3_W25_files/data/Flye_136x2/Flye_assembly.fasta	contig_14	49843	50703	+	aac(3)-IId_1	1-861/861	===============	0/0	100.00	99.65	resfinder	EU022314	aac(3)-IId	Gentamicin;Tobramycin
+/home/mirza/scratch/Genomics_Assignment_3/Assignment3_W25_files/data/Flye_136x2/Flye_assembly.fasta	contig_14	52518	53177	-	qnrS1_1	1-657/657	========/======	5/5	99.85	99.24	resfinder	AB187515	qnrS1	Ciprofloxacin
+/home/mirza/scratch/Genomics_Assignment_3/Assignment3_W25_files/data/Flye_136x2/Flye_assembly.fasta	contig_14	57832	58709	-	blaCTX-M-55_1	1-876/876	========/======	2/2	100.00	99.43	resfinder	DQ810789	blaCTX-M-55	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin
+/home/mirza/scratch/Genomics_Assignment_3/Assignment3_W25_files/data/Flye_136x2/Flye_assembly.fasta	contig_14	63220	64468	+	tet(A)_6	1-1247/1275	========/======	2/2	97.80	99.28	resfinder	AF534183	tet(A)	Doxycycline;Tetracycline
+/home/mirza/scratch/Genomics_Assignment_3/Assignment3_W25_files/data/Flye_136x2/Flye_assembly.fasta	contig_7	156685	157922	+	mdf(A)_1	1-1233/1233	========/======	4/5	100.00	97.58	resfinder	Y08743	mdf(A)	

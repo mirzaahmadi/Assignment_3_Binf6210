@@ -1,0 +1,6 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+/home/mirza/scratch/Genomics_Assignment_3/Assignment3_W25_files/data/Unicycler_136x2/Unicycler_assembly.fasta	2	149876	151108	+	mdf(A)_1	1-1233/1233	===============	0/0	100.00	98.46	resfinder	Y08743	mdf(A)	
+/home/mirza/scratch/Genomics_Assignment_3/Assignment3_W25_files/data/Unicycler_136x2/Unicycler_assembly.fasta	6	70976	72222	-	tet(A)_6	1-1247/1275	===============	0/0	97.80	100.00	resfinder	AF534183	tet(A)	Doxycycline;Tetracycline
+/home/mirza/scratch/Genomics_Assignment_3/Assignment3_W25_files/data/Unicycler_136x2/Unicycler_assembly.fasta	6	76719	77594	+	blaCTX-M-55_1	1-876/876	===============	0/0	100.00	100.00	resfinder	DQ810789	blaCTX-M-55	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin
+/home/mirza/scratch/Genomics_Assignment_3/Assignment3_W25_files/data/Unicycler_136x2/Unicycler_assembly.fasta	6	82235	82891	+	qnrS1_1	1-657/657	===============	0/0	100.00	100.00	resfinder	AB187515	qnrS1	Ciprofloxacin
+/home/mirza/scratch/Genomics_Assignment_3/Assignment3_W25_files/data/Unicycler_136x2/Unicycler_assembly.fasta	6	84709	85569	-	aac(3)-IId_1	1-861/861	===============	0/0	100.00	99.88	resfinder	EU022314	aac(3)-IId	Gentamicin;Tobramycin
